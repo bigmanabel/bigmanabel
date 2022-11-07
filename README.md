@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Nutsugah</h1>
-<h3 align="center">A passionate full stack developer from Ghana</h3>
+<h3 align="center">A passionate full stack developer looking to collaborate on any web development project. I am skilled in Django and Nodejs with best practices for industry. I look forward to creating innovative and relevant solutions to problems with code.</h3>
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
