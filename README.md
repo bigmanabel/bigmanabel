@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **abelknutsugah@outlook.com**
+- 📫 How to reach me **nutsugahabel@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFRS9hzq74/3L0K9m-NEjT9JADjJgLhfw/edit?utm_content=DAFRS9hzq74&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFRS9hzq74/3L0K9m-NEjT9JADjJgLhfw/edit?utm_content=DAFRS9hzq74&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
