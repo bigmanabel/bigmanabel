@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-nutsugah)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nutsugahabel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://standardresume.co/r/dW8f1SimQMzfeY6BkG0T3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://flowcv.com/resume/d5ldu8plbpas)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/930736efcfe4417785a297f5431df91d)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bigmanabel&color=blue&style=for-the-badge)
@@ -151,7 +151,7 @@ Leadership: Technical mentoring, Code reviews, Team collaboration
 
 [![Schedule a Call](https://img.shields.io/badge/Schedule%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](mailto:nutsugahabel@gmail.com?subject=Let's%20Connect%20-%20Project%20Discussion)
 [![LinkedIn Message](https://img.shields.io/badge/LinkedIn%20Message-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-nutsugah)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://standardresume.co/r/dW8f1SimQMzfeY6BkG0T3)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://flowcv.com/resume/d5ldu8plbpas)
 
 </div>
 
